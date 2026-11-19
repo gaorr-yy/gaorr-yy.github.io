@@ -29,8 +29,6 @@ continue update
 
 # 🎖 Honors and Awards
 
-# 🎖 Honors and Awards
-
 - **2025** — Academic Progress Award 
 - **2025** — Outstanding Social Work Award 
 - **2024** — Tsinghua University Good Reading Scholarship 
