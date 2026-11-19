@@ -28,7 +28,13 @@ continue update
 continue update
 
 # 🎖 Honors and Awards
-continue update
+
+# 🎖 Honors and Awards
+
+- **2025** — Academic Progress Award 
+- **2025** — Outstanding Social Work Award 
+- **2024** — Tsinghua University Good Reading Scholarship 
+
 
 # 📖 Educations
 - *2024.06 - now*, Department of Electronic Engineering, Tsinghua University
